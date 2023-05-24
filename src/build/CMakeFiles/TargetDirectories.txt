@@ -1,0 +1,3 @@
+/home/arun/github/tensorflow-lite-cpp/src/build/CMakeFiles/rebuild_cache.dir
+/home/arun/github/tensorflow-lite-cpp/src/build/CMakeFiles/edit_cache.dir
+/home/arun/github/tensorflow-lite-cpp/src/build/CMakeFiles/TFLiteCheck.dir
